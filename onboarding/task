@@ -1,0 +1,10 @@
+# onboarding {
+
+- Catalog all personal phone numbers from all users on pbx bocadmindemo using SMP Tools
+
+- Create a SMS Campaign to send Welcome Text to all users with a 2 Factor Authentication method
+  // All Users must authenticate using the codes provided //
+
+- Once 2 Factor is enabled send the users a video SMS link to connect with their manager to welcome them to the team.(Using Jitsi)
+
+}

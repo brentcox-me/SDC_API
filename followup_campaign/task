@@ -1,0 +1,10 @@
+# Report Data
+
+  Parameters:
+    - Compile all tenant VCC Agent ID's for bocadmindemo01
+    - Find all of the rejected call for 2021 and gather the Caller ID's
+    - Using the Catalog data of the callers create local CRM records for each caller
+      - data to be mapped in crm records
+        - agent ID
+        - caller id 
+    - Using the Dynamic Campaign API add in all of the found callers and create a method for all rejected calls to be added for follow up
